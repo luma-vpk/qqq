@@ -40,7 +40,7 @@
 			Mod					luma
 			Mod					dota
 
-			Write				dota
+		Write				dota
 
 			// These are optional language paths. They must be mounted first, which is why there are first in the list.
 			// *LANGUAGE* will be replaced with the actual language name. If not running a specific language, these paths will not be mounted
