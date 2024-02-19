@@ -11,7 +11,7 @@
 	FileSystem
 	{
 		SteamAppId				570
-    //
+    		//
 		// The code that loads this file automatically does a few things here:
 		//
 		// 1. For each "Game" search path, it adds a "GameBin" path, in <dir>\bin
@@ -33,14 +33,14 @@
 			// These are optional low-violence paths. They will only get mounted if you're in a low-violence mode.
 			Game_LowViolence	dota_lv
 
-      Game				luma
+     			Game				luma
 			Game				dota
 			Game				core
 
-      Mod					luma
+      			Mod					luma
 			Mod					dota
 
-      Write				dota
+      			Write				dota
 
 			// These are optional language paths. They must be mounted first, which is why there are first in the list.
 			// *LANGUAGE* will be replaced with the actual language name. If not running a specific language, these paths will not be mounted
